@@ -1,3 +1,4 @@
+<h1>CREATE THIS ON YOUR DATABASE</h1>
 <h2>Create Database Sekolah</h2>
 create database Sekolah;
 <h2>Create Table Students</h2>
