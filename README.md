@@ -1,7 +1,7 @@
 <h2>Create Database Sekolah</h2>
 create database Sekolah;
 <h2>Create Table Students</h2>
-create table students(
+create table students(<br>
     id_students int auto_increment, <br>
     nis int(4), <br>
     name varchar(50),<br>
